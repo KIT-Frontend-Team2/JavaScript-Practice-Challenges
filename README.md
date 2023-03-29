@@ -1,5 +1,5 @@
 
-# JavaScript-Practice-Challenges 
+# 🔥JavaScript-Practice-Challenges
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 <table style="margin-left: auto; margin-right: auto; width: 600px; height: 200px;">
             <tr>
