@@ -20,6 +20,15 @@
                 <td><a href="https://github.com/alejandro-yoon">@alejandro-yoon</a></td>
                 <td><a href=""></a></td>
             </tr>
+            <tr>
+                <td>GitHub</td>
+                <td><a href=""></a></td>
+                <td><a href=""></a></td>
+                <td><a href=""></a></td>
+                <td><a href="https://lyrical-buffet-fad.notion.site/2fc13841555b4646a279baabc08ef780">@Notion</a></td>
+                <td><a href=""></a></td>
+                <td><a href=""></a></td>
+            </tr>
   </table>
 
 ## :book: 문제풀이 작업 기간
