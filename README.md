@@ -13,11 +13,11 @@
             </tr>
             <tr>
                 <td>GitHub</td>
+                <td><a href="https://github.com/dbs271">@dbs271</a></td>
                 <td><a href=""></a></td>
-                <td><a href=""></a></td>
-                <td><a href=""></a></td>
-                <td><a href=""></a></td>
-                <td><a href=""></a></td>
+                <td><a href="https://github.com/BaeSanga">@BaeSanga</a></td>
+                <td><a href="https://github.com/Jihyeong00">@Jihyeong00</a></td>
+                <td><a href="https://github.com/alejandro-yoon">@alejandro-yoon</a></td>
                 <td><a href=""></a></td>
             </tr>
   </table>
