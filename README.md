@@ -21,7 +21,7 @@
                 <td><a href=""></a></td>
             </tr>
             <tr>
-                <td>GitHub</td>
+                <td>Study Note</td>
                 <td><a href=""></a></td>
                 <td><a href=""></a></td>
                 <td><a href=""></a></td>
