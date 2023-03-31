@@ -12,7 +12,7 @@
                 <td>이제율</td>
             </tr>
             <tr>
-                <td>GitHub</td>
+                <td>✈️GitHub</td>
                 <td><a href="https://github.com/dbs271">@dbs271</a></td>
                 <td><a href=""></a></td>
                 <td><a href="https://github.com/BaeSanga">@BaeSanga</a></td>
@@ -21,7 +21,7 @@
                 <td><a href=""></a></td>
             </tr>
             <tr>
-                <td>Study Note</td>
+                <td>📝Study Note</td>
                 <td><a href=""></a></td>
                 <td><a href=""></a></td>
                 <td><a href=""></a></td>
