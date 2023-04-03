@@ -24,7 +24,7 @@
                 <td><a href=""></a></td>
                 <td><a href=""></a></td>
                 <td><a href="https://lyrical-buffet-fad.notion.site/2fc13841555b4646a279baabc08ef780">@Notion</a></td>
-                <td><a href="https://datadog.notion.site/Javascript-Korea-e0aa0ad2c50d4df995025a07eb8ae9c3">@datadogNotion</a></td>
+                <td><a href="https://datadog.notion.site/Javascript-Korea-e0aa0ad2c50d4df995025a07eb8ae9c3">@윤 Notion</a></td>
             </tr>
   </table>
 
