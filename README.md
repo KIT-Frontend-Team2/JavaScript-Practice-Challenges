@@ -16,7 +16,7 @@
                 <td><a href="https://github.com/xxnewnewxx">@xxnewnewxx</a></td>
                 <td><a href="https://github.com/BaeSanga">@BaeSanga</a></td>
                 <td><a href="https://github.com/Jihyeong00">@Jihyeong00</a></td>
-                <td><a href="https://github.com/alejandroYoon">@윤진섭></td>
+                <td><a href="https://github.com/alejandroYoon">@윤진섭</td>
             </tr>
             <tr>
                 <td>📝Study Note</td>
