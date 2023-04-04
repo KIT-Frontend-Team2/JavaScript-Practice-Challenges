@@ -1,28 +1,28 @@
 const users = [
-    {
-        id: 1,
-        name: '문다은',
-        age: 20,
-        height: 165,
-    },
-    {
-        id: 2,
-        name: '윤진섭',
-        age: 24,
-        height: 177,
-    },
-    {
-        id: 3,
-        name: '윤국현',
-        age: 22,
-        height: 175,
-    },
-    {
-        id: 4,
-        name: '배상아',
-        age: 23,
-        height: 168,
-    },
+  {
+    id: 1,
+    name: "문다은",
+    age: 20,
+    height: 165,
+  },
+  {
+    id: 2,
+    name: "윤진섭",
+    age: 24,
+    height: 177,
+  },
+  {
+    id: 3,
+    name: "윤국현",
+    age: 22,
+    height: 175,
+  },
+  {
+    id: 4,
+    name: "배상아",
+    age: 23,
+    height: 168,
+  },
 ];
 
 // 1번 문제
