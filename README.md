@@ -33,5 +33,5 @@
 - week2 : 2023-04-04 ~ 2023-04-10
 - week3 : 2023-04-11 ~ 2023-04-16
 
-## 📓 : 문서 정리
+## 📓 문서 정리
 - Link : <a href='https://docs.google.com/spreadsheets/d/1KrJBb2hGQo77Jp_2miFTVQRx6FoHshBRqOeN0p6POOM/edit#gid=643095729'>@spreadsheets</a>
